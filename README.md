@@ -8,4 +8,4 @@ Eu to com preguiça de fazer um .py separado só pro github reconhecer que ta em
 
 a 1 e a 2 DEFINITIVAMENTE estão erradas, a 3 e a 4 estão certas, mas não foram feitas do jeito que o professor esperava (lá não dizia que eu não podia fazer de outra forma)
 
-Quando as respostas pelo professor sairem eu mando elas pra ca
+Quando as respostas do professor sairem eu mando elas pra ca
