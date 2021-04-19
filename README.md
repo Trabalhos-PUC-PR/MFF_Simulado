@@ -8,4 +8,4 @@ Eu to com preguiça de fazer um .py separado só pro github reconhecer que ta em
 
 a 1 e a 2 DEFINITIVAMENTE estão erradas, a 3 e a 4 estão certas, mas não foram feitas do jeito que o professor esperava (lá não dizia que eu não podia fazer de outra forma)
 
-As respostas do professor são ta no [Simulado-Correção.ipynb](https://github.com/Kovalski-rgb/MFF_Simulado/blob/main/Simulado-Corre%C3%A7%C3%A3o.ipynb)
+As respostas do professor tão no [Simulado-Correção.ipynb](https://github.com/Kovalski-rgb/MFF_Simulado/blob/main/Simulado-Corre%C3%A7%C3%A3o.ipynb)
